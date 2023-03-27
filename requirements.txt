@@ -1,0 +1,12 @@
+asyncpg
+databases[postgresql]
+fastapi
+SQLAlchemy
+uvicorn
+uuid
+python-multipart
+psycopg2
+
+# dev
+pytest
+requests
